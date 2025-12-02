@@ -3,7 +3,6 @@
 Me llamo Sofía Blanco y soy estudiante de **Desarrollo de Aplicaciones Multiplataforma (2DAM)**  
 
 ## Sobre mí
-- Me gusta trabajar en proyectos colaborativos y aprender de otros desarrolladores  
 - Actualmente aprendiendo: Acceso a datos, Programación de servicios y procesos, Desarrollo de interfaces, Programación multimedia y dispositivos móviles, Sistemas de gestión empresarial y Ciberseguridad
 
 ### Formacion en DAM
